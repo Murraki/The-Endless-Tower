@@ -1,0 +1,34 @@
+{
+  "races": [
+    {
+      "id": 1,
+      "name": "Human",
+      "type": "HUMAN",
+      "hpBonus": 0,
+      "strengthBonus": 2,
+      "agilityBonus": 2,
+      "intelligenceBonus": 0,
+      "luckBonus": 0
+    },
+    {
+      "id": 2,
+      "name": "Elf",
+      "type": "ELF",
+      "hpBonus": 0,
+      "strengthBonus": 0,
+      "agilityBonus": 2,
+      "intelligenceBonus": 2,
+      "luckBonus": 0
+    },
+    {
+      "id": 3,
+      "name": "Dwarf",
+      "type": "DWARF",
+      "hpBonus": 2,
+      "strengthBonus": 2,
+      "agilityBonus": 0,
+      "intelligenceBonus": 0,
+      "luckBonus": 2
+    }
+  ]
+}

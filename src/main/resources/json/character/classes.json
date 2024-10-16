@@ -1,0 +1,49 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "name": "Warrior",
+      "type": "WARRIOR",
+      "baseStrength": 10,
+      "baseAgility": 5,
+      "baseIntelligence": 3,
+      "baseLuck": 5
+    },
+    {
+      "id": 2,
+      "name": "Mage",
+      "type": "MAGE",
+      "baseStrength": 3,
+      "baseAgility": 5,
+      "baseIntelligence": 10,
+      "baseLuck": 5
+    },
+    {
+      "id": 3,
+      "name": "Barbarian",
+      "type": "BARBARIAN",
+      "baseStrength": 3,
+      "baseAgility": 5,
+      "baseIntelligence": 10,
+      "baseLuck": 5
+    },
+    {
+      "id": 4,
+      "name": "Rogue",
+      "type": "ROGUE",
+      "baseStrength": 3,
+      "baseAgility": 5,
+      "baseIntelligence": 10,
+      "baseLuck": 5
+    },
+    {
+      "id": 4,
+      "name": "Archer",
+      "type": "ARCHER",
+      "baseStrength": 3,
+      "baseAgility": 5,
+      "baseIntelligence": 10,
+      "baseLuck": 5
+    }
+  ]
+}
